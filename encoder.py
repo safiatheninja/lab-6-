@@ -1,3 +1,4 @@
+#safia hodge
 def encode_password(password):
     encoded_password = ""
 
